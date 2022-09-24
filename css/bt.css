@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url("https://www.wallpaperflare.com/static/380/767/692/sunset-boulevard-photo-mountains-sunrise-wallpaper.jpg");
+    color:black;
+    /*background-size: cover;*/
+    
+    background-position: 80% 15%;
+    height: 40vh;
+    /*vh = viewport height*/
+}
